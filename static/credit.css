@@ -1,3 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Red+Rose&display=swap');
+*{
+  font-family: 'Nanum Gothic', sans-serif;
+}
+pre {
+  padding: 1rem;
+  background-color: #eee;
+  border-radius: 0.25rem;
+}
+
+xmp {
+  font-family: 'Red Rose', cursive;
+}
+
 body{
   margin: 0;
   padding: 0;
